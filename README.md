@@ -17,7 +17,7 @@ Prohibitions:
 
 - No Selling: The selling of the documents, either in their original or any modified or derivative form, is strictly prohibited.
 
-## Declaration
+## Declarations
 
 - I don't guarantee the correctness of any content in this repository. I am not responsible for the loss of the usage of documents here.
 - Please consult the instructors whether using (other students and students in previous semesters)'s cheating paper is allowed. I am not responsible for any loss in violated usage in this case.
