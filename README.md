@@ -25,6 +25,6 @@ Prohibitions:
 
 ## Courses in UM-SJTU Joint Institute
 
-I took some courses in UM-SJTU Joint Institute, and some of them are equivalent to the courses in UMich. See [SJTU](/SJTU) folder for detail.
+I took some courses in UM-SJTU Joint Institute, and some of them are equivalent to the courses in UMich. See [SJTU](/SJTU) folder for detail. But I can't ensure that these courses are completely the same.
 
-部分课程我是在上海交通大学密西根学院学习的，其中有一些课程和密西根大学的课程等效。具体请见 [SJTU](/SJTU) 文件夹。
+部分课程我是在上海交通大学密西根学院学习的，其中有一些课程和密西根大学的课程等效。具体请见 [SJTU](/SJTU) 文件夹。但我不能确保这些课程完全相同。
