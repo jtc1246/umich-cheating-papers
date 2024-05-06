@@ -22,3 +22,9 @@ Prohibitions:
 - I don't guarantee the correctness of any content in this repository. I am not responsible for the loss of the usage of documents here.
 - Please consult the instructors whether using (other students and students in previous semesters)'s cheating paper is allowed. I am not responsible for any loss in violated usage in this case.
 - Please confirm whether the cheating paper needs to be hand written or allows to be printed before using them.
+
+## Courses in UM-SJTU Joint Institute
+
+I took some courses in UM-SJTU Joint Institute, and some of them are equivalent to the courses in UMich. See [SJTU](/SJTU) folder for detail.
+
+部分课程我是在上海交通大学密西根学院学习的，其中有一些课程和密西根大学的课程等效。具体请见 [SJTU](/SJTU) 文件夹。
